@@ -1,4 +1,4 @@
-package list;
+
 
 import java.util.LinkedList;
 import java.util.Scanner;
@@ -35,7 +35,7 @@ public class linkedlist {
 
             System.out.println("Values Containing are: "+nums.contains(1));
 
-            
+
 
 
 
